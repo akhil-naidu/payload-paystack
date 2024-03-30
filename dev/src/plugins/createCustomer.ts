@@ -19,7 +19,6 @@ export const createCustomer: Plugin = (incomingConfig: Config): Config => {
 
   console.log(incomingConfig)
 
-  // @ts-ignore
   const updatedCollection = incomingConfig.collections.map(collection => {
     if (collection.slug === 'users') {
       return {
