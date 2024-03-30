@@ -2,7 +2,7 @@
   "name": "payload-paystack",
   "version": "0.0.1",
   "homepage:": "https://contestql.io",
-  "repository": "git@github.com:payloadcms/payload-plugin-template.git",
+  "repository": "git@github.com/akhil-naidu/payload-paystack.git",
   "description": "Payload Plugin for Paystack Payments",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
