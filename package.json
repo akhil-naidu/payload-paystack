@@ -1,6 +1,6 @@
 {
   "name": "payload-paystack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage:": "https://contestql.io",
   "repository": "git@github.com/akhil-naidu/payload-paystack.git",
   "description": "Payload Plugin for Paystack Payments",
